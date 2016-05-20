@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ZendSkeletonApplication
 =======================
 
@@ -50,3 +51,7 @@ Virtual Host
 ------------
 Afterwards, set up a virtual host to point to the public/ directory of the
 project and you should be ready to go!
+=======
+# webmarchizf
+Estudo de zend framework 2
+>>>>>>> df9ff065b1ac1354046c2f2653a52c1be3beec41
